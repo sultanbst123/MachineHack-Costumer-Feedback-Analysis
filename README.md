@@ -6,6 +6,10 @@ Model:
 - DistilBert
 - BertBase
 - BertLarge
+- Blending(DistilBert + BertBase + BertLarge) 
 
 Hypeparameters: 
-- learning rate = 5e-4
+- Learning Rate = 5e-5
+- Weight Decay = 1e-4
+- Max Length = 256
+- Optimizers = (AdaBelief & AdamW)
