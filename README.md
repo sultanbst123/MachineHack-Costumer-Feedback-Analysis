@@ -1,4 +1,4 @@
-# MachineHack-Costumer-Feedback-Analysis
+# uHack Sentiments 2.0: Decode Code Words
 
 mengembangkan model pembelajaran mesin yang dapat menganalisis sentimen pelanggan berdasarkan ulasan dan umpan balik mereka.
 
