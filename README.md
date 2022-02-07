@@ -13,3 +13,7 @@ Hypeparameters:
 - Weight Decay = 1e-4
 - Max Length = 256
 - Optimizers = (AdaBelief & AdamW)
+
+## Dataset & Information 
+
+https://machinehack.com/hackathon/uhack_sentiments_20_decode_code_words/overview
